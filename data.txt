@@ -1,1 +1,2 @@
 service:taro:password
+service2:jiro:hoge
